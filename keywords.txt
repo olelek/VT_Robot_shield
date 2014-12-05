@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For VT_Robot_Shield
+####################################### 
+# Class
+#######################################
+
+Robot	KEYWORD3
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+begin	KEYWORD2
+getDistance	KEYWORD2
+goForward	KEYWORD2
+goBackward	KEYWORD2
+turnRight	KEYWORD2
+turnLeft	KEYWORD2
+stop	KEYWORD2
+turnLight	KEYWORD2
+beep	KEYWORD2
+noBeep	KEYWORD2
+dump	KEYWORD2
+switchRead	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+ 
+ON	LITERAL1
+OFF	LITERAL1
+
